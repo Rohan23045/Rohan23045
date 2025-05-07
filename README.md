@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm ROHAN PENDSE</h1>
-<h3 align="center">A passionate MERN Stack developer</h3>
+<h3 align="center">A passionate ORACLE TECHNICAL CONSULTANT TRAINEE</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **ORACLE CLOUD**
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
+- 👯 I’m looking to collaborate on **ORACLE EBS Projects**
 
-- 💬 Ask me about **JS, React, Node, Express, MongoDB**
+- 💬 Ask me about **ORACLE EBSDB,CONCURRENT PROGRAMS,INTERFACE,CONVERSIONS**
 
 - 📫 How to reach me **rohanpendse01@gmail.com**
 
