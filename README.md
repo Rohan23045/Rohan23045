@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ROHAN PENDSE</h1>
 <h3 align="center">A passionate ORACLE TECHNICAL CONSULTANT TRAINEE</h3>
 
-- 🌱 I’m currently learning **ORACLE CLOUD**
+- 🌱 I’m currently learning **ORACLE INTEGRATION CLOUD**
 
 - 👯 I’m looking to collaborate on **ORACLE EBS Projects**
 
